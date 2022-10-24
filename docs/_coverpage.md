@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-# 智能防疫系统 文档
+# The document of AI Epidemic-Prevention-System 
 
-> 一个SSPU课程 的 项目作业
+> 一个SSPU课程 的 项目作业 ---> 智能防疫系统 官方文档
 
 -   压力马斯内（赞赏）
 
