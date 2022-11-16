@@ -6,7 +6,7 @@
 
 -   压力马斯内（赞赏）
 
-[开始使用](AI_EP_System.md)
+[开始使用](AI_EP_System)
 
 ![](https://pic1.imgdb.cn/item/624bf170239250f7c55c5fc1.jpg)
 
