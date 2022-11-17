@@ -2,7 +2,9 @@
 
 # The document of AI Epidemic-Prevention-System 
 
-> 一个SSPU课程 的 项目作业 ---> 智能防疫系统 官方文档
+> 智能防疫系统 官方文档
+
+> 基于 `Python` 和 `MariaDB` 开发
 
 -   压力马斯内（赞赏）
 
